@@ -1,0 +1,19 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "usser":"201252",
+            "pass":"e10adc3949ba59abbe56e057f20f883e"
+        },
+        {
+            "id":2,
+            "usser":"211106",
+            "pass":"c33367701511b4f6020ec61ded352059" 
+        },
+        {
+            "id":3,
+            "usser":"roberto",
+            "pass":"25d55ad283aa400af464c76d713c07ad" 
+        }
+    ]
+}
